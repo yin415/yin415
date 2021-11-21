@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @yin415
 - 👀 I’m interested in Back-end development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, Flask, React
 
 <!---
 yin415/yin415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
